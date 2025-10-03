@@ -116,6 +116,7 @@ export default function RecipeDetailScreen(props) {
           {recipe.recipeInstructions}
         </Text>
       </View>
+        </View>
     </ScrollView>
   );
 }
